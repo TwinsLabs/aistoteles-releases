@@ -3,12 +3,12 @@
     <channel>
         <title>AIStoteles</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Fri, 26 Jun 2026 10:21:11 -0300</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>0.1.1</title>
+            <pubDate>Fri, 26 Jun 2026 10:40:34 -0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/download/v0.1.0/AIStoteles-0.1.0.zip" length="4032433" type="application/octet-stream" sparkle:edSignature="eZgG8HgQbufkkozQ7+ea8WYooWAQxeBw8ZYeIUhCBmzxLOlAsn+MHXo/PmdVY/QhhNb5edeqkdIeip289BrMDQ=="/>
+            <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/download/v0.1.1/AIStoteles-0.1.1.zip" length="4032202" type="application/octet-stream" sparkle:edSignature="b4YC7w1u9Jf0yo1pXEWDFLbCFKeofasSqvU6K0Gz+b2bxMGeila5h6X5HD9jyZ+SQHy3v5YkeN0dkwaWho3jDw=="/>
         </item>
     </channel>
 </rss>
