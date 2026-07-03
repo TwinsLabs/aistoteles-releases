@@ -3,12 +3,24 @@
     <channel>
         <title>Ari</title>
         <item>
+            <title>0.2.4</title>
+            <pubDate>Thu, 02 Jul 2026 21:03:46 -0300</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari-0.2.4.zip" length="4613622" type="application/octet-stream" sparkle:edSignature="mjcHZ2XKUxATCD0EtDlLJldfO+haYbrDyWNx0Wc3e1bMuRpaHV0M1PVGtvp9RjEzVL96DpATFerD5j228cZjBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari7-6.delta" sparkle:deltaFrom="6" length="364874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PIQ5UM5xsxvEierpDUGSeitoSRJi5yG7b42R3dv3vUTGb5Crq8I3tlgNYmP1MeylrZ0eEOUCkcBXRxju9d6DBA=="/>
+                <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari7-5.delta" sparkle:deltaFrom="5" length="443406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q82X5/x5FN98llfuBtAn18WNJaKvJT+jTnqU4SDJFScH1d23plGAj9Xp5WSjC06+ZuNqWnxg3egsOMTvEpq1Bw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Thu, 02 Jul 2026 15:12:09 -0300</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari-0.2.3.zip" length="4590200" type="application/octet-stream" sparkle:edSignature="UenkX+1XPyq1v0RBPXCZUPQJG7nvTmtd7a45TyF6XTtNPvzUkUhLht9DyGDBbVCR55i1S8NkkgXGTcrcZ6biCA=="/>
+            <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari-0.2.3.zip" length="4602607" type="application/octet-stream" sparkle:edSignature="AKT46ihDm90XKk9TVan3N9b8lilev8KiWbhhlDzSi4/9F/qhJYfWkgtPCwVCxQ50NesEIBrLCcRcTQNLLGe6Dg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari6-5.delta" sparkle:deltaFrom="5" length="207410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="b4UpukkK1I0cMk+TgSGs/PRmvKK5tWu9MxZEXeTp1ODTYq3x/gTso7O2MKRsvyEZX9c98Dg817egSD8S4SMPDg=="/>
             </sparkle:deltas>
