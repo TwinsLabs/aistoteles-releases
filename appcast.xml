@@ -3,6 +3,21 @@
     <channel>
         <title>Ari</title>
         <item>
+            <title>0.2.26</title>
+            <pubDate>Thu, 09 Jul 2026 17:31:01 -0300</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.2.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari-0.2.26.zip" length="4819044" type="application/octet-stream" sparkle:edSignature="2xKcD9hBDGZXeQqlkfIwkuQDfxf57ZnoXL0m0AWkPFoms3jKFeu3dCbO6f92CdxMRUuNMD0m8x0c+HWSw9BKAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari29-28.delta" sparkle:deltaFrom="28" length="448038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zS2WzZ7ttqDaSK+Wwt5P6k5sDf9Th6axD9fHI10hALR2mKr1PC+dqs7ha6mStQ5HmHjmafrYd8kOOG+b+ndHAg=="/>
+                <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari29-27.delta" sparkle:deltaFrom="27" length="468670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V+uWKG2R37uCZH7hCS45TVlWNB55J1Z77mP6wBAD696bqlDP1cy9Cg4HwTcuEFkStR8LT6eQkuJjoeTnmC78Cw=="/>
+                <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari29-26.delta" sparkle:deltaFrom="26" length="526606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0o5c5xTXCo40sWZ7qyhR6RvFivTEVFyTR/tUmgPoswQ6iSQGWcepK7vcGVtbnHEYTuTOih0g2XhR/f8n+jbkAQ=="/>
+                <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari29-25.delta" sparkle:deltaFrom="25" length="547526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uJgFRAHNIMBy66QbZd17MTIkbIPuQWfXHUYkkbg6V/41kHHlO/DfuA/OIwE89IM5teR6P7FR83U+o5ZfNnffBw=="/>
+                <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari29-24.delta" sparkle:deltaFrom="24" length="562714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VIHBdDPMaN8Y0FaAIqeQUIl3RBJ+3bszQclu2EPSArl+/MNm4wKMk+NgJcjxNo0GT9lb1c89yKpb7v86JTIFBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.25</title>
             <pubDate>Thu, 09 Jul 2026 14:50:17 -0300</pubDate>
             <sparkle:version>28</sparkle:version>
@@ -29,19 +44,6 @@
                 <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari27-25.delta" sparkle:deltaFrom="25" length="388114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1HX+eM6DTrA9I7p/Jt8jYHk1Xkq3TMGkevqy2/N3Q35Jj1OoAKWbcX8MCXaDsp60U2iGVNS/wXlinHqfzEjmBQ=="/>
                 <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari27-24.delta" sparkle:deltaFrom="24" length="432730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gaAsEOyRkUq5PjeFBUAosFCAYi3iH4ViDxxtnRLMqknnaV0TJVc6xbL/LwHCw0mpkGdbGxabAm4K6Ziw3uJiCQ=="/>
                 <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari27-23.delta" sparkle:deltaFrom="23" length="450854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="74M+lIXCUVfTnfcqcgwYUL63iZ0Qunp4jkR3t/6N9yZG3YQnA4Z5sm9Sen0dOqLiLAstQrrNI6W7/4TF8PuiCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.23</title>
-            <pubDate>Thu, 09 Jul 2026 13:48:29 -0300</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>0.2.23</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari-0.2.23.zip" length="4917165" type="application/octet-stream" sparkle:edSignature="fpIwzfztFu2KEGBLywV5fRXvmodqpgj9p/PapzFmySk/RvZkCoguLnnRN2rIzMd0iHwtYSqagUJY/n3itViTAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari26-25.delta" sparkle:deltaFrom="25" length="323786" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nH27waK06k9Ae/5OTZMiXkBP2N3YmXY2vb1dl5MQLscTDAbzTE3NbEG19vwE4S7AF9ASDY/tZ9FmBvBg+S9cCg=="/>
-                <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari26-24.delta" sparkle:deltaFrom="24" length="397402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WGSFyaJz8tqCUiNgO+nvFrv3eFC103y3HU05D9COVJaxAMePurQdXwio3K62bVRqx3YYQ2gO8/Q79zLNJ9RlAA=="/>
-                <enclosure url="https://github.com/TwinsLabs/aistoteles-releases/releases/latest/download/Ari26-23.delta" sparkle:deltaFrom="23" length="411234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iyCuKmboas0UO/Rfc0zvnMUm4xKoSR1eFdcl7+BWDofWlKR+2ITvXcrqCIRWnJ63H+9dhTToIiN+ue5PokrXCA=="/>
             </sparkle:deltas>
         </item>
     </channel>
